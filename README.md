@@ -6,6 +6,9 @@
 <br>
 
 ### Tecnologías implicadas:
-- Utilización de intelliJ.
-- Xamp.
+- intelliJ.
+- MySQL.
+- Hibernate
+- Maven
+- Arquitectura MVC
 
